@@ -1,0 +1,22 @@
+# Test UGC File for gen.py script
+
+codestr gen_py
+str "This is an example string."
+int 1
+float 2.5
+bool TRUE
+#set dict_example
+    codestr gen_py
+    str "This is an example string."
+    int 1
+    float 2.5
+    bool TRUE
+#endset
+#list list_example
+    "Index 0"
+    3
+    5.4
+    TRUE
+    kdfjdk_kdfjk
+    "Index 5"
+#endlist
