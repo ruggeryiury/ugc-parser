@@ -3,9 +3,9 @@ UGC (User-generated content) files is a more practical way to create JSON files 
 
 ## 📄 File Structure
 
-### Basic Values: String / Numbers (Integrer/Float) / Booleans
+### String
 
-    asdkjskja
-    
-    
-asds
+Strings are declared with quotation marks as default, but this rule can be broken if it is a string with a single word (lovely called a "code string")
+
+    code_string value_with_no_space
+    normal_string "This is a normal string"
