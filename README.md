@@ -42,6 +42,6 @@ Like dictionaries, lists are declared by placing `#list` and the key of the list
         "Hope you got it right lol"
     #endlist
     
-## Known imitations
+## ❗️ Known imitations
 
 You can't declare dicts inside a list, this is a feature that may be added later.
