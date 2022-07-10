@@ -11,12 +11,60 @@ bool TRUE
     int 1
     float 2.5
     bool TRUE
+    #set nested_dict_example
+        codestr gen_py
+        str "This is an example string."
+        int 1
+        float 2.5
+        bool TRUE
+    #endset
 #endset
-#list list_example
+#list simple_list_example
     "Index 0"
+    asd
     3
-    5.4
+    3.5
     TRUE
-    kdfjdk_kdfjk
-    "Index 5"
 #endlist
+#list complex_list_example
+    #set
+        codestr gen_py
+        str "This is an example string."
+        int 1
+        float 2.5
+        bool TRUE
+    #endset
+    #set
+        codestr gen_py
+        str "This is an example string."
+        int 1
+        float 2.5
+        bool TRUE
+    #endset
+#endlist
+#list more_complex_list_example
+    #list complex_list_example
+        #set
+            codestr gen_py
+            str "This is an example string."
+            int 1
+            float 2.5
+            bool TRUE
+        #endset
+        #set
+            codestr gen_py
+            str "This is an example string."
+            int 1
+            float 2.5
+            bool TRUE
+        #endset
+    #endlist
+    #set
+        codestr gen_py
+        str "This is an example string."
+        int 1
+        float 2.5
+        bool TRUE
+    #endset
+#endlist
+final_key TRUE
