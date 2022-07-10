@@ -5,7 +5,7 @@ UGC (User-generated content) files is a more practical way to create JSON files 
 
 ### Basic Values: String / Numbers (Integrer/Float) / Booleans
 
-   .
+    .
     ├── ...
     ├── META
     │   └── content
