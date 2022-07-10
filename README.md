@@ -34,7 +34,7 @@ Booleans are declared putting `TRUE` or `FALSE` (All uppercase) after the key.
 Dicts are declared by placing `#set` and the key of the dict right after. All followed keys/values will be placed on this dict until you close it an `#endset` line.
 
     #set dict_example
-        desc "This "desc" string will be placed on the "disc_example" dict.
+        desc "This "desc" string will be placed on the "disc_example" dict."
     #endset
     
 ## Lists
