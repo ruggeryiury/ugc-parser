@@ -3,6 +3,9 @@ UGC (User-generated content) files is a more practical way to create JSON files 
 
 ## How to use
 
+- Create a \*.ugc file with the UGC file structure (see below).
+- Place the `ugc.py` file on the same directory of your .ugc files and execute it
+- JSON files will be generated! Yay!
 
 ## 📄 File Structure
 
