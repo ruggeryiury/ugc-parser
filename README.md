@@ -14,7 +14,7 @@ UGC (User-generated content) files is a more practical way to create JSON files 
 Strings are declared with quotation marks as default, but this rule can be broken if it is a string with a single word (lovely called a "code string").
 
     code_string value_with_no_space
-    normal_string "This is a normal string"
+    normal_string "This is a normal string."
 
 ### Integrers/Float
 
@@ -34,7 +34,7 @@ Booleans are declared putting `TRUE` or `FALSE` (All uppercase) after the key.
 Dicts are declared by placing `#set` and the key of the dict right after. All followed keys/values will be placed on this dict until you close it an `#endset` line.
 
     #set dict_example
-        desc "This \"desc\" string will be placed on the \"disc_example\" dict.
+        desc "This "desc" string will be placed on the "disc_example" dict.
     #endset
     
 ## Lists
@@ -42,10 +42,10 @@ Dicts are declared by placing `#set` and the key of the dict right after. All fo
 Like dictionaries, lists are declared by placing `#list` and the key of the list right after. All followed values will be appended on this list until you close it with an `#endlist` line.
 
     #list list_example
-        "This string will be appended at index 0"
-        "This, at index 1"
-        "And this at index 2"
-        "Hope you got it right lol"
+        "This string will be appended at index 0."
+        "This, at index 1."
+        "And this at index 2."
+        "Hope you got it right lol."
     #endlist
     
 ## ❗️ Known imitations/To-do List
