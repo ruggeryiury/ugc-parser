@@ -1,6 +1,9 @@
 # UGC Parser
 UGC (User-generated content) files is a more practical way to create JSON files without needing to use explicit JSON structure. It can be used on any projetct that you may have to create JSON files by hand without the need to place brackers and quotation marks to indicates value keys.
 
+## How to use
+
+
 ## 📄 File Structure
 
 ### Strings
@@ -42,6 +45,6 @@ Like dictionaries, lists are declared by placing `#list` and the key of the list
         "Hope you got it right lol"
     #endlist
     
-## ❗️ Known imitations
+## ❗️ Known imitations/To-do List
 
-You can't declare dicts inside a list, this is a feature that may be added later.
+[ ] You can't declare dicts inside a list, this is a feature that may be added later.
