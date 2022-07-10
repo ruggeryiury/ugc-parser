@@ -1,6 +1,8 @@
-# UGC to JSON
-UGC (User-generated content) is a more practical way to create JSON files without needing to use explicit JSON structure.
+# UGC Parser
+UGC (User-generated content) files is a more practical way to create JSON files without needing to use explicit JSON structure. It can be used on any projetct that you may have to create JSON files by hand without the need to place brackers and quotation marks to indicates value keys.
 
 ## 📄 File Structure
 
-  sdfdsdf
+### Basic Values: String / Numbers (Integrer/Float) / Booleans
+
+<h1>TEST</h1>
