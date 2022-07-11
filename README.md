@@ -16,7 +16,7 @@ The generated JSON file can be both a dict or a list. By default, the script wil
     #declare list
     [...]
 
-When declaring the root type as a list
+By declaring the root type as a list, the rules to 
 
 ## 📄 Types
 
@@ -69,3 +69,11 @@ Like dicts, lists are declared by placing `#list` and the key name right after. 
         "And this at index 2."
     #endlist
 
+Inside another list, list are declared just by placing `#list`.
+
+    #list list_with_lists
+        #list
+            "This string will be at index 0 inside a list, that is the index 0 inside the "list_with_lists" list."
+        #endlist
+        "This string will be at index 1 inside the "list_with_lists" list."
+    #list
