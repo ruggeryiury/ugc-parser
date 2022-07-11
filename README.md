@@ -14,6 +14,9 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
 The generated JSON file can be both a dict or a list. By default, the script will generate the JSON root as a dict. But if you want the root as a list, you just need to place the following _declarative_ operator at the first line of your UGC file:
 
     #declare list
+    [...]
+
+When declaring the root type as a list
 
 ## 📄 Types
 
@@ -44,6 +47,17 @@ Dicts are declared by placing `#set` and the key name right after. To close it, 
     #set dict_example
         desc "This "desc" string will be placed inside "dict_example"."
     #endset
+    
+Inside a list, dicts are declared just by placing `#set`.
+
+    #list list_with_dicts
+        #set
+            will_be_index 0
+        #endset
+        #set
+            will_be_index 1
+        #endset
+    #list
     
 ## Lists
 
