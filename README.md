@@ -18,7 +18,7 @@ The generated JSON file can be both a dict or a list. By default, the script wil
     #declare list
     [...]
 
-By declaring the root type as a list, the rules to declare any value to a list must be followed (no key names, only values).[rules to declare any value to a list](#lists "Lists")
+By declaring the root type as a list, the [rules to declare any value to a list](#lists "Lists") must be followed (no key names, only values).
 
 ## 📄 Types
 
