@@ -1,4 +1,4 @@
-<h1>UGC to JSON Converter</h1>
+# UGC to JSON Converter
 - - - -
 
 UGC (User-Generated Content) files is a more practical way to create JSON files without needing to use explicit JSON structure. It can be used on any projetct that you may have to create JSON files by hand without the need to place brackers and quotation marks to indicates value keys.
@@ -18,7 +18,7 @@ The generated JSON file can be both a dict or a list. By default, the script wil
     #declare list
     [...]
 
-By declaring the root type as a list, the rules to declare any value to a list must be followed (no key names, only values).
+By declaring the root type as a list, the rules to declare any value to a list must be followed (no key names, only values).[rules to declare any value to a list](#lists "Lists")
 
 ## 📄 Types
 
