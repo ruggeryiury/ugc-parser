@@ -1,13 +1,17 @@
 # UGC to JSON Converter
 UGC (User-Generated Content) files is a more practical way to create JSON files without needing to use explicit JSON structure. It can be used on any projetct that you may have to create JSON files by hand without the need to place brackers and quotation marks to indicates value keys.
 
-## How to use
+## ✅ How to use
 
 - Create a `*.ugc` file with the UGC file structure (see below).
 - Place the `ugc2json.py` file on the same directory of your `.ugc` files and execute it.
 - JSON files will be generated.
 
-## 📄 UGC File Structure
+## ⚙️ UGC File Structure
+
+to be added.
+
+## 📄 Types
 
 ### Strings
 
