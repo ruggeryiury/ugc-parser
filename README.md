@@ -16,7 +16,7 @@ The generated JSON file can be both a dict or a list. By default, the script wil
     #declare list
     [...]
 
-By declaring the root type as a list, the rules to 
+By declaring the root type as a list, the rules to declare any value to a list must be followed (no key names, only values).
 
 ## 📄 Types
 
@@ -61,13 +61,16 @@ Inside a list, dicts are declared just by placing `#set`.
     
 ## Lists
 
-Like dicts, lists are declared by placing `#list` and the key name right after. To close it, just place an `#endlist` alone.
+Like dicts, lists are declared by placing `#list` and the key name right after. To close it, just place an `#endlist` alone. By being a list, values are declared alone (without key names)
 
-    #list list_example
-        "This string will be appended at index 0."
-        "This, at index 1."
-        "And this at index 2."
-    #endlist
+    #list list_example                                  | List opened
+        "This string will be appended at index 0."      | String
+        "This, at index 1."                             | String
+        "And this at index 2."                          | String
+        3                                               | Int
+        index_4                                         | String (Code String)
+        TRUE                                            | Boolean
+    #endlist                                            | List closed
 
 Inside another list, list are declared just by placing `#list`.
 
