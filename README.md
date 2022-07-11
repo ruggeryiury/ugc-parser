@@ -9,9 +9,11 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
 
 ## ⚙️ Declaring Root Type
 
-`This is a for a future feature, as for now, this is now necessary.`
+`WARNING: This is a for a future feature, as for now, this is not necessary.`
 
-You can use both 
+The generated JSON file can be both a dict or a list. By default, the script will generate the JSON root as a dict. But if you want the root as a list, you just need to place the following _declarative_ operator at the first line of your UGC file:
+
+    #declare list
 
 ## 📄 Types
 
