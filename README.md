@@ -7,9 +7,11 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
 - Place the `ugc2json.py` file on the same directory of your `.ugc` files and execute it.
 - JSON files will be generated.
 
-## ⚙️ UGC File Structure
+## ⚙️ Declaring Root Type
 
-to be added.
+`This is a for a future feature, as for now, this is now necessary.`
+
+You can use both 
 
 ## 📄 Types
 
