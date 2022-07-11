@@ -24,7 +24,7 @@ By declaring the root type as a list, the rules to declare any value to a list m
 
 Strings are declared with quotation marks as default, but this rule can be broken if it is a string with a single word (lovely called a "code string").
 
-    code_string_example ugc_parser
+    code_string_example ugc2json_converter
     normal_string "This is a normal string."
 
 ### Numbers
