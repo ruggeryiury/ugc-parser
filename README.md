@@ -29,7 +29,7 @@ Booleans are declared putting `TRUE` or `FALSE` (All uppercase) after the key.
 
     boolean TRUE
     
-### Dictionaries
+## Dictionaries
 
 Dicts are declared by placing `#set` and the key of the dict right after. All followed keys/values will be placed on this dict until you close it an `#endset` line.
 
