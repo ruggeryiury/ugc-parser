@@ -80,6 +80,6 @@ Inside another list, list are declared just by placing `#list`.
         "This string will be at index 1 inside the "list_with_lists" list."
     #list
 
-## 📄 Comments
+## ➕ Comments
 
 By now, UGC to JSON Converter only supports __Inline Comments__ only.
