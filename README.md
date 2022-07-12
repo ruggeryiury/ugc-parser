@@ -83,3 +83,6 @@ Inside another list, list are declared just by placing `#list`.
 ## ➕ Comments
 
 By now, UGC to JSON Converter only supports __Inline Comments__ only.
+To place an inline comment, just use `##` followed by a space and your comment.
+
+    ## This is a comment and will be ignored.
