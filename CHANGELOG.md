@@ -2,7 +2,7 @@
 
 ## V1.1 - July 12th, 2022
 ### Changes
-- Added new _Declaring Root Type_ feature:
+- Added _Declaring Root Type_ feature:
   - Now you can declare if the type of the generated JSON file is a dict or a list. By default, the type of the generated JSON file is a dict, but you can change to a list placing `#declare list` on the first line of your UGC file.
 
 - Added _Inline Comments_ feature:
