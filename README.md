@@ -4,6 +4,8 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
 
 # Table of Contents
 - [How to use](#-how-to-use)
+    - [Root Type](#root-type)
+    - [Minify](#minify)
 - [Declare Class Types](#%EF%B8%8F-declare-class-types)
 - [Value Types](#-value-types)
 - [Comments](#-comments)
