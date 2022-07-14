@@ -47,7 +47,7 @@ The generated JSON file will be generated minified by placing:
 ## ⭕️ Script Variables
 Certain features can be enabled/disabled changing variables on the script, here's all variables:
 
-### Read Subdirectories ON/OFF
+### `subdirs` : Read Subdirectories ON/OFF
 By default, the script scans for UGC files on the root subdirectories, you can restrict the scanning only for the root folder changing the `subdirs` variable inside the Python script to `False`.
 
 ## 📄 Value Types
