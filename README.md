@@ -3,10 +3,10 @@
 UGC (User-Generated Content) files is a more practical way to create JSON files without needing to use explicit JSON structure. It can be used on any projetct that you may have to create JSON files by hand without the need to place brackers and quotation marks to indicates value keys.
 
 # Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+[How to use](#-how-to-use)
+[Declare Class Types](#example2)
+[Value Types](#third-example)
+[Comments](#fourth-examplehttpwwwfourthexamplecom)
 
 ## ✅ How to use
 
