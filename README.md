@@ -8,14 +8,22 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
 - Place the `ugc2json.py` file on the same directory of your `.ugc` files and execute it.
 - JSON files will be generated.
 
-## ⚙️ Declaring Root Type
+## ⚙️ Declare Class Types
+A few aspects of your generated JSON file can be manipulated by placing `#declare` classes at the very beginning of your UGC file. There's all possible manipulations:
 
-The generated JSON file can be both a dict or a list. By default, the script will generate the JSON root as a dict. But if you want the root as a list, you just need to place the following _declarative_ operator at the first line of your UGC file:
+### Root Type
+The generated JSON file can be both a dict or a list. By default, the script will generate the JSON root as a dict. But if you want the root as a list, you just need to place the following _declarative_ class at the first line of your UGC file:
 
     #declare list
     [...]
 
 By declaring the root type as a list, the [rules to declare any value to a list](#lists "Lists") must be followed (no key names, only values).
+
+### Minify
+The generated JSON file will be generated minified by placing:
+    
+    #declare minify
+    [...]
 
 ## 📄 Value Types
 
