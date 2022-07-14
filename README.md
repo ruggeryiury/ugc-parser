@@ -2,7 +2,7 @@
 
 UGC (User-Generated Content) files is a more practical way to create JSON files without needing to use explicit JSON structure. It can be used on any projetct that you may have to create JSON files by hand without the need to place brackers and quotation marks to indicates value keys.
 
-# Table of Contents
+# 💠 Table of Contents
 - [How to use](#-how-to-use)
 - [Declare Class Types](#%EF%B8%8F-declare-class-types)
     - [Root Type](#root-type)
@@ -22,7 +22,7 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
 - JSON files will be generated.
 
 ## ⚙️ Declare Class Types
-A few aspects of your generated JSON file can be manipulated by placing `#declare` classes at the very beginning of your UGC file. There's all possible manipulations:
+A few features of your generated JSON file can be manipulated by placing `#declare` classes at the very beginning of your UGC file. There's all possible declare options:
 
 ### Root Type
 The generated JSON file can be both a dict or a list. By default, the script will generate the JSON root as a dict. But if you want the root as a list, you just need to place the following _declarative_ class at the first line of your UGC file:
@@ -43,6 +43,12 @@ The generated JSON file will be generated minified by placing:
     #declare list
     #declare minify
     [...]
+
+## ⭕️ Script Variables
+Certain features can be enabled/disabled changing variables on the script, here's all variables:
+
+### Read Subdirectories ON/OFF
+By default, the script scans for UGC files on the root subdirectories, you can restrict the scanning only for the root folder changing the `subdirs` variable inside the Python script to `False`.
 
 ## 📄 Value Types
 
