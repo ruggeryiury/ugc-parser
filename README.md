@@ -25,7 +25,8 @@ The generated JSON file will be generated minified by placing:
     #declare minify
     [...]
     
-`NOTE: All these declaring classes can be used together but you have to declare them individually.`
+### Declaring Notes
+All these declaring classes can be used together but you have to declare them individually.
 
     #declare list
     #declare minify
