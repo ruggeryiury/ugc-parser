@@ -13,6 +13,7 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
     - [Strings](#strings)
     - [Numbers](#numbers)
     - [Booleans](#booleans)
+    - [Null Values](#null-values)
     - [Dicts](#dicts)
     - [Lists](#lists)
 - [Comments](#-comments)
