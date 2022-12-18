@@ -1,5 +1,10 @@
 # Changelog
 
+## December 18th, 2022
+### Changes
+  - `JSON 2 UGC` -- Added `null` value entries feature
+    - You can now place `null` values placing `NONE` after the key code.
+
 ## July 30th, 2022
 ### Changes
   - `JSON 2 UGC` -- Initial release.

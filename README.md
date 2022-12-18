@@ -73,6 +73,12 @@ Int and float are declared just by putting the number after the key name.
 Booleans are declared putting `TRUE` or `FALSE` (All uppercase) after the key name.
 
     boolean_example TRUE
+
+### Null Values
+
+Null values are declared putting `NONE` after the key name.
+
+    null_value_example NONE
     
 ## Dicts
 

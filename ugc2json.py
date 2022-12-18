@@ -32,6 +32,8 @@ def type_key_value(key_value: str) -> str | int | float | bool:
                 new_value = True
             elif key_value == "FALSE":
                 new_value = False
+            elif key_value == "NONE":
+                new_value = None
             else:
                 if key_value[0] == '"':
                     new_value = key_value[1:-1]
