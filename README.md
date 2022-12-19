@@ -1,7 +1,7 @@
 # UGC to JSON Converter
 
 <p align="center">
-  <img src="https://github.com/ruggeryiury/ugc2json_converter/blob/master/header.webp?raw=true" alt="Create JSON files without needing to use explicit JSON structure"/>
+  <img src="https://github.com/ruggeryiury/ugc2json_converter/blob/main/header.webp?raw=true" alt="Create JSON files without needing to use explicit JSON structure"/>
 </p>
 
 UGC (User-Generated Content) files is a more practical way to create JSON files without needing to use explicit JSON structure. It can be used on any projetct that you may have to create JSON files by hand without the need to place brackers and quotation marks to indicates value keys.
