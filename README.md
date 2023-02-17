@@ -21,6 +21,7 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
     - [Dicts](#dicts)
     - [Lists](#lists)
 - [Comments](#-comments)
+- [Changelog](https://github.com/ruggeryiury/my-linktree/blob/master/CHANGELOG.md)
 
 ## ✅ How to use
 
