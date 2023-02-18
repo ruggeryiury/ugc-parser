@@ -1,4 +1,12 @@
-# UGC to JSON Converter
+# UGC to JSON Converter <img  src='https://xesque.rocketseat.dev/platform/tech/python.svg' width='24px' title='Python'/>
+
+<div>
+<img src='https://img.shields.io/github/last-commit/ruggeryiury/mugc2json-converter?color=%23DDD&style=for-the-badge' />
+<img src='https://img.shields.io/github/repo-size/ruggeryiury/mugc2json-converter?style=for-the-badge' />
+<img src='https://img.shields.io/github/issues/ruggeryiury/mugc2json-converter?style=for-the-badge' />
+<img src='https://img.shields.io/github/package-json/v/ruggeryiury/mugc2json-converter?style=for-the-badge' />
+<img src='https://img.shields.io/github/license/ruggeryiury/mugc2json-converter?style=for-the-badge' />
+</div>
 
 <p align="center">
   <img src="https://github.com/ruggeryiury/ugc2json_converter/blob/master/header.webp?raw=true" alt="Create JSON files without needing to use explicit JSON structure"/>
@@ -21,7 +29,7 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
     - [Dicts](#dicts)
     - [Lists](#lists)
 - [Comments](#-comments)
-- [Changelog](https://github.com/ruggeryiury/my-linktree/blob/master/CHANGELOG.md)
+- [Changelog](https://github.com/ruggeryiury/mugc2json-converter/blob/master/CHANGELOG.md)
 
 ## ✅ How to use
 
