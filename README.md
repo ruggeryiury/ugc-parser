@@ -1,11 +1,11 @@
 # UGC to JSON Converter <img  src='https://xesque.rocketseat.dev/platform/tech/python.svg' width='24px' title='Python'/>
 
 <div>
-<img src='https://img.shields.io/github/last-commit/ruggeryiury/mugc2json-converter?color=%23DDD&style=for-the-badge' />
-<img src='https://img.shields.io/github/repo-size/ruggeryiury/mugc2json-converter?style=for-the-badge' />
-<img src='https://img.shields.io/github/issues/ruggeryiury/mugc2json-converter?style=for-the-badge' />
-<img src='https://img.shields.io/github/package-json/v/ruggeryiury/mugc2json-converter?style=for-the-badge' />
-<img src='https://img.shields.io/github/license/ruggeryiury/mugc2json-converter?style=for-the-badge' />
+<img src='https://img.shields.io/github/last-commit/ruggeryiury/ugc2json-converter?color=%23DDD&style=for-the-badge' />
+<img src='https://img.shields.io/github/repo-size/ruggeryiury/ugc2json-converter?style=for-the-badge' />
+<img src='https://img.shields.io/github/issues/ruggeryiury/ugc2json-converter?style=for-the-badge' />
+<img src='https://img.shields.io/github/package-json/v/ruggeryiury/ugc2json-converter?style=for-the-badge' />
+<img src='https://img.shields.io/github/license/ruggeryiury/ugc2json-converter?style=for-the-badge' />
 </div>
 
 <p align="center">
