@@ -4,7 +4,7 @@
 <img src='https://img.shields.io/github/last-commit/ruggeryiury/ugc2json-converter?color=%23DDD&style=for-the-badge' />
 <img src='https://img.shields.io/github/repo-size/ruggeryiury/ugc2json-converter?style=for-the-badge' />
 <img src='https://img.shields.io/github/issues/ruggeryiury/ugc2json-converter?style=for-the-badge' />
-<img src='https://img.shields.io/github/package-json/v/ruggeryiury/ugc2json-converter?style=for-the-badge' />
+<img src='https://img.shields.io/badge/version-v1.2-red?style=for-the-badge' />
 <img src='https://img.shields.io/github/license/ruggeryiury/ugc2json-converter?style=for-the-badge' />
 </div>
 
@@ -29,7 +29,7 @@ UGC (User-Generated Content) files is a more practical way to create JSON files 
     - [Dicts](#dicts)
     - [Lists](#lists)
 - [Comments](#-comments)
-- [Changelog](https://github.com/ruggeryiury/mugc2json-converter/blob/master/CHANGELOG.md)
+- [Changelog](https://github.com/ruggeryiury/ugc2json-converter/blob/master/CHANGELOG.md)
 
 ## ✅ How to use
 
